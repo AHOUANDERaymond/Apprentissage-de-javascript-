@@ -2,5 +2,5 @@
 const myVariable="Mathematics";
 
 //String methods
-console.log(myVariable.slice(5,13));
+console.log("Ray Roland Carlos".split(""));
  
